@@ -1,0 +1,4 @@
+#Fri Oct 18 11:45:10 CDT 2019
+base.0=C\:\\Users\\Han\\Desktop\\BotScale\\My Application\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
